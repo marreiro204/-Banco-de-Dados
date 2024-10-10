@@ -1,0 +1,21 @@
+-- TABELAS DE LOJAS DE ACORDO COM NUMERO DE FUNCIONARIOS, PARA FAZER A ENTREGA DE MAQUINAS DE CAFÉ
+-- CATEGORIA 1: De 1 a 20 funcionários = 1 máquina de café
+--SELECT 
+--StoreName,
+--EmployeeCount
+--FROM DimStore
+--WHERE EmployeeCount < = 20
+
+-- CATEGORIA 2: De 21 a 50 funcionários -> 2 máquinas de café
+--SELECT 
+--StoreName,
+--EmployeeCount
+--FROM DimStore
+--WHERE EmployeeCount BETWEEN 21 AND 50
+
+--CATEGORIA 3: Acima de 51 funcionários -> 3 máquinas de café
+--SELECT 
+--StoreName,
+--EmployeeCount
+--FROM DimStore
+--WHERE EmployeeCount > = 51
