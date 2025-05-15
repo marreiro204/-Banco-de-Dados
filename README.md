@@ -25,7 +25,7 @@ Durante este projeto, pratiquei os principais conceitos de **modelagem e manipul
 
 - **SQL Server**
 - **SSMS (SQL Server Management Studio)** para executar e testar as consultas
-- Base de dados modelo personalizada e/ou fornecida pelo curso
+- Base de dados modelo personalizada e fornecida pelo curso
 
 ---
 
