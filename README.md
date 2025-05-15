@@ -29,19 +29,7 @@ Durante este projeto, pratiquei os principais conceitos de **modelagem e manipul
 
 ---
 
-## 🗂️ Estrutura
 
-📁 sql-exercicios/
-├── 01-criacao-tabelas.sql
-├── 02-insercao-dados.sql
-├── 03-selects-basicos.sql
-├── 04-filtros-condicionais.sql
-├── 05-joins.sql
-├── 06-funcoes-agregadas.sql
-├── 07-group-by-having.sql
-├── 08-subconsultas.sql
-├── 09-update-delete.sql
-└── 10-desafios-finais.sql
 
 🎯 Objetivo
 Consolidar os fundamentos de SQL através de exercícios práticos que simulam situações reais de bancos de dados empresariais.
